@@ -5,6 +5,9 @@ This project uses unsupervised learning techniques — specifically the K-Means 
 ## Results with 2D Feature
 Code can be found here: 
 
+### Elbow Method Graph
+<img width="641" height="458" alt="image" src="https://github.com/user-attachments/assets/e495afcc-b77b-4e9e-af27-a43dd93f6b63" />
+
 <img width="618" height="442" alt="image" src="https://github.com/user-attachments/assets/b889af7f-6fe9-435a-87f9-6631a9d4a446" />
 
 ### Result Analysis
