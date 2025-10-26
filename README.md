@@ -19,4 +19,10 @@ Code can be found here:
 
 
 ## Results with 3D Feature
-Code can be found here: 
+Code can be found here:
+
+### Elbow Method Graph
+<img width="642" height="454" alt="image" src="https://github.com/user-attachments/assets/8f673590-b1f4-44e0-b148-629ac94eb98c" />
+
+<img width="671" height="501" alt="image" src="https://github.com/user-attachments/assets/715e923d-0a7c-4954-a539-34b550473c1f" />
+
