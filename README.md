@@ -3,7 +3,7 @@
 This project uses unsupervised learning techniques — specifically the K-Means clustering algorithm — to perform customer segmentation. By analyzing patterns in customers’ annual income and spending scores, we can divide them into meaningful groups that share similar buying behavior. In the second part, instead of two features, we take three features annual income, spending scores and ages. 
 
 ## Results with 2D Feature
-Code can be found here: 
+Code can be found here: https://github.com/taufique-06/customer-segmentation-using-kmeans/blob/main/2dFeature.py
 
 ### Elbow Method Graph
 <img width="641" height="458" alt="image" src="https://github.com/user-attachments/assets/e495afcc-b77b-4e9e-af27-a43dd93f6b63" />
@@ -19,7 +19,7 @@ Code can be found here:
 
 
 ## Results with 3D Feature
-Code can be found here:
+Code can be found here: https://github.com/taufique-06/customer-segmentation-using-kmeans/blob/main/3dfeature.py
 
 ### Elbow Method Graph
 <img width="642" height="454" alt="image" src="https://github.com/user-attachments/assets/8f673590-b1f4-44e0-b148-629ac94eb98c" />
